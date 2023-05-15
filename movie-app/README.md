@@ -1,10 +1,17 @@
+# Project Live Link
+https://movieratingreview.netlify.app/
+
+# Project screenshot
+![image](https://github.com/GauravPatil301/React/assets/102862547/8da22270-c43f-46aa-a95f-358de7c9457a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: 
 
 ### `npm start`
 
